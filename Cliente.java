@@ -1,6 +1,9 @@
 package packk;
 
 public class Cliente {
+	
+	// ta faltando método pagamento, troca, compra
+	// atributos + comportamentos
 
 			private String nomeCliente;
 			private String idadeCliente;
